@@ -2,11 +2,11 @@
 
 
 
-## I'm a student, coder, and many more things I guess
+## 
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about VueJS
+- 🥅 2023 Goals: Learning Django
 - ⚡ Fun fact: I became Electronics Engineer as a Biology Student
 
 
