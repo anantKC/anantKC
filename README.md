@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learning Django
-- ⚡ Fun fact: I became Electronics Engineer as a Biology Student
+
 
 
 
