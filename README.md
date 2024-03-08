@@ -5,8 +5,8 @@
 ## 
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learning Django
+- 🌱 I’m currently learning everything
+- 🥅 2024 Goals: Learn Design Principles and Rust 
 
 
 
@@ -24,5 +24,3 @@
 [<img align="left" alt="Vue" width="26px" src="https://www.svgrepo.com/show/373554/django.svg" style="padding-right:10px;" />]
 <br />
 <br />
-
-
