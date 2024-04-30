@@ -14,4 +14,4 @@
 [<img align="left" alt="Vue" width="26px" src="https://www.svgrepo.com/show/373554/django.svg" style="padding-right:10px;" />]
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anishrestha1&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=anantKC&count_private=true&show_icons=true&theme=radical)
