@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything.
-- 🥅 2024 Goals: Learn Design Principles and Rust..
+- 🥅 2026 Goals: Learn Design Principles and Rust..
 
 ### Languages and Tools:
 
